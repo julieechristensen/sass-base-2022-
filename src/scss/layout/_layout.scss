@@ -1,8 +1,4 @@
-@use '../components/buttons' as button;
 
-.test{
-    @include button.default($background:blue);
-}
 
 
 
